@@ -1,5 +1,0 @@
-#hello_everyone
-#Helloworld
-#testing_dynamic_sdk
-sfdhsad
-hellow
